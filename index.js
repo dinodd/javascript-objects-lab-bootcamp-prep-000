@@ -4,6 +4,6 @@ function Objects() {
   }
 
 function updateObjectWithKeyAndValue(obj,key,value) {
-  var obj.key = value
+  obj.key = value
   return obj
 }
